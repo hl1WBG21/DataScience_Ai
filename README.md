@@ -1,2 +1,2 @@
-# become_web_dev
+# data_science_ai
 for the end year project
